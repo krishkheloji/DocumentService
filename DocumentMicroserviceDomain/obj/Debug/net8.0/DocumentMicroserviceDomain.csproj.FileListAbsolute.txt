@@ -1,0 +1,14 @@
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\bin\Debug\net8.0\DocumentMicroserviceDomain.deps.json
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\bin\Debug\net8.0\DocumentMicroserviceDomain.runtimeconfig.json
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\bin\Debug\net8.0\DocumentMicroserviceDomain.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\bin\Debug\net8.0\DocumentMicroserviceDomain.pdb
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.csproj.AssemblyReference.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.AssemblyInfoInputs.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.AssemblyInfo.cs
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.csproj.CoreCompileInputs.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\refint\DocumentMicroserviceDomain.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.pdb
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\DocumentMicroserviceDomain.genruntimeconfig.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceDomain\obj\Debug\net8.0\ref\DocumentMicroserviceDomain.dll

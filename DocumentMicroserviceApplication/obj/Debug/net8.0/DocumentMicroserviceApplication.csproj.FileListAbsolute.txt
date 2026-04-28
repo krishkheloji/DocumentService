@@ -1,0 +1,17 @@
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceApplication.deps.json
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceApplication.runtimeconfig.json
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceApplication.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceApplication.pdb
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceDomain.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\bin\Debug\net8.0\DocumentMicroserviceDomain.pdb
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.csproj.AssemblyReference.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.AssemblyInfoInputs.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.AssemblyInfo.cs
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.csproj.CoreCompileInputs.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\Document.156BAD23.Up2Date
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\refint\DocumentMicroserviceApplication.dll
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.pdb
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\DocumentMicroserviceApplication.genruntimeconfig.cache
+D:\Masstech projects\Microservice\DocumentMicroserviceApplication\obj\Debug\net8.0\ref\DocumentMicroserviceApplication.dll

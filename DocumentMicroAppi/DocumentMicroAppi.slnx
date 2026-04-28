@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DocumentMicroserviceApplication/DocumentMicroserviceApplication.csproj" />
+  <Project Path="../DocumentMicroserviceDomain/DocumentMicroserviceDomain.csproj" />
+  <Project Path="../DocumentMicroserviceInfrastructure/DocumentMicroserviceInfrastructure.csproj" />
+  <Project Path="DocumentMicroAppi.csproj" />
+</Solution>

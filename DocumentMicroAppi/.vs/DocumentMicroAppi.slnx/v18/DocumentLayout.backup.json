@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\interface\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637983C7-0DC4-4A36-B37C-7C9251F758B0}|..\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj|d:\\masstech projects\\microservice\\documentmicroserviceinfrastructure\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0340A35E-EFC2-4F3E-9A14-BAC93D923EA6}|..\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj|d:\\masstech projects\\microservice\\documentmicroservicedomain\\entity\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\dto\\updatedocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\validators\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\dto\\uploaddocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|d:\\masstech projects\\microservice\\documentmicroappi\\controllers\\documenthandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|solutionrelative:controllers\\documenthandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\validators\\maxfilesizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637983C7-0DC4-4A36-B37C-7C9251F758B0}|..\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj|d:\\masstech projects\\microservice\\documentmicroserviceinfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|d:\\masstech projects\\microservice\\documentmicroappi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Migrations\\20260426183804_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\mapping\\dtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|d:\\masstech projects\\microservice\\documentmicroappi\\documentmicroappi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2FBD36E-45E6-400F-BB77-3ED9DE9253FD}|DocumentMicroAppi.csproj|solutionrelative:documentmicroappi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637983C7-0DC4-4A36-B37C-7C9251F758B0}|..\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj|d:\\masstech projects\\microservice\\documentmicroserviceinfrastructure\\documentmicroserviceinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38A4A52-DA1B-47A9-8B42-8B01EDDFE35E}|..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj|d:\\masstech projects\\microservice\\documentmicroserviceapplication\\documentmicroserviceapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0340A35E-EFC2-4F3E-9A14-BAC93D923EA6}|..\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj|d:\\masstech projects\\microservice\\documentmicroservicedomain\\documentmicroservicedomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceInfrastructure\\Services\\DocumentService.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Services\\DocumentService.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceInfrastructure\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:43:33.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Documents.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceDomain\\Entity\\Documents.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceDomain\\Entity\\Documents.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceDomain\\Entity\\Documents.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceDomain\\Entity\\Documents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:53:57.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDocumentDto.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DTO\\UpdateDocumentDto.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\DTO\\UpdateDocumentDto.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DTO\\UpdateDocumentDto.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\DTO\\UpdateDocumentDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T19:32:01.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadDocumentDto.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DTO\\UploadDocumentDto.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\DTO\\UploadDocumentDto.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DTO\\UploadDocumentDto.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\DTO\\UploadDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T18:10:47.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Interface\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\Interface\\IDocumentService.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Interface\\IDocumentService.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\Interface\\IDocumentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:42:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaxFileSizeAttribute.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Validators\\MaxFileSizeAttribute.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\Validators\\MaxFileSizeAttribute.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Validators\\MaxFileSizeAttribute.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\Validators\\MaxFileSizeAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T19:59:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllowedExtensionsAttribute.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Validators\\AllowedExtensionsAttribute.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\Validators\\AllowedExtensionsAttribute.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Validators\\AllowedExtensionsAttribute.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\Validators\\AllowedExtensionsAttribute.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T20:00:59.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentHandlerController.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\Controllers\\DocumentHandlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentHandlerController.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\Controllers\\DocumentHandlerController.cs",
+              "RelativeToolTip": "Controllers\\DocumentHandlerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T18:14:03.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceInfrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceInfrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T18:01:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DtoMapping.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Mapping\\DtoMapping.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\Mapping\\DtoMapping.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\Mapping\\DtoMapping.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\Mapping\\DtoMapping.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:55:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T18:23:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260426183804_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Migrations\\20260426183804_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceInfrastructure\\Migrations\\20260426183804_InitialCreate.cs",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\Migrations\\20260426183804_InitialCreate.cs",
+              "RelativeToolTip": "..\\DocumentMicroserviceInfrastructure\\Migrations\\20260426183804_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T18:38:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentMicroAppi",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\DocumentMicroAppi.csproj",
+              "RelativeDocumentMoniker": "DocumentMicroAppi.csproj",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroAppi\\DocumentMicroAppi.csproj",
+              "RelativeToolTip": "DocumentMicroAppi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T17:29:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentMicroserviceInfrastructure",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj",
+              "RelativeToolTip": "..\\DocumentMicroserviceInfrastructure\\DocumentMicroserviceInfrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T17:41:10.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentMicroserviceDomain",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj",
+              "RelativeToolTip": "..\\DocumentMicroserviceDomain\\DocumentMicroserviceDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T17:43:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentMicroserviceApplication",
+              "DocumentMoniker": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj",
+              "RelativeDocumentMoniker": "..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj",
+              "ToolTip": "D:\\Masstech projects\\Microservice\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj",
+              "RelativeToolTip": "..\\DocumentMicroserviceApplication\\DocumentMicroserviceApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T17:39:49.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
