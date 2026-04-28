@@ -7,7 +7,7 @@ using System.ComponentModel;
 
 namespace DocumentMicroAppi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("documents")]
     [ApiController]
     public class DocumentHandlerController : ControllerBase
     {
@@ -64,7 +64,6 @@ namespace DocumentMicroAppi.Controllers
 
 
         [HttpGet]
-        [Route("GetAllDocs")]
         public async Task<IActionResult> GetAllDocuments()
         {
             var docs = await services.GetAllDocuments();
